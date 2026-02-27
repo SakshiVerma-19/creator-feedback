@@ -1,0 +1,15 @@
+# Environments
+amd_slingshot/
+venv/
+.env
+
+# Python 
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
