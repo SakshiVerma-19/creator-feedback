@@ -1,4 +1,4 @@
-# AMD Sling Shot: Automated Creator Feedback (ACF)
+# AMD Sling Shot: Automated Creator Feedback 
 
 Empowering creators with private, low-latency visual intelligence.
 
@@ -12,11 +12,11 @@ Creators often guess which thumbnail or asset will perform better. Existing clou
 - Privacy-Risk: Proprietary, unreleased designs must be uploaded to third-party servers.
 - Disconnected: They provide raw data without designer-first actionable insights.
 
-## The AMD Advantage (Key for Judges)
+## The AMD Advantage 
 This project is built to run natively on AMD Ryzen AI NPUs and Radeon GPUs.
 
 - Privacy by Design: By using onnxruntime-directml, the model runs entirely on the user's local machine. No creative assets ever touch the cloud.
-- Hardware-Software Co-Design: We utilize DirectML to tap into the high-performance execution providers of AMD hardware, ensuring sub-100ms inference times for real-time design iteration.
+- Hardware-Software Co-Design: We utilise DirectML to tap into the high-performance execution providers of AMD hardware, ensuring sub-100ms inference times for real-time design iteration.
 
 ## Core Features
 - Visual Saliency Mapping: Uses Spectral Residual algorithms to predict eye-tracking focus points.
